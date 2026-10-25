@@ -5,7 +5,7 @@ const BooksSwitchButton: React.FC<{
 }> = ({ setState, state, states }) => {
   return (
     <div className="flex mx-auto bg-black text-sm w-max">
-      {states.map((currentState, i) => {
+      {states.map((currentState) => {
         return (
           <button
             key={currentState}
