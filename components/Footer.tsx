@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
         >
           elia
         </a>{" "}
-        / © {new Date().getFullYear()} / all data stored in notion / frontend crafted using next.js
+        / © {new Date().getFullYear()} / frontend crafted using next.js
       </p>
     </div>
   );

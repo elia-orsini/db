@@ -1,7 +1,5 @@
-import { Dispatch, SetStateAction } from "react";
-
 const BooksSwitchButton: React.FC<{
-  setState: Dispatch<SetStateAction<string>>;
+  setState: (year: string) => void;
   state: string;
   states: string[];
 }> = ({ setState, state, states }) => {

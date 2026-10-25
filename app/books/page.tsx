@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Suspense } from "react";
 
 import Title from "../../components/Title";
 import BooksList from "../../components/books/BooksList";
@@ -14,7 +14,9 @@ const Books = async () => {
       <div className="w-full">
         <Title leftSide={<>{allBooks.length} books</>} />
 
-        <BooksList books={books} />
+        <Suspense>
+          <BooksList books={books} />
+        </Suspense>
       </div>
     </div>
   );

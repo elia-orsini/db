@@ -8,11 +8,11 @@ const Book: React.FC<{
   return (
     <a href={link ? `books/${id}` : "#"}>
       <div
-        className={`mx-auto border h-full border-black font-semibold w-72 text-left ${
+        className={`mx-auto border h-full border-black font-semibold w-72 text-left bg-gray-50 ${
           link ? "cursor-pointer" : "cursor-default"
         }`}
       >
-        <div className="hover:bg-gray-100">
+        <div className={link ? "hover:bg-gray-100" : undefined}>
           <div className="flex justify-between">
             <p className="capitalize px-2 pb-1 h-max overflow-hidden sm:h-12">
               {title}
@@ -32,14 +32,11 @@ const Book: React.FC<{
 
           <hr className="border-black" />
 
-          <p className="font-normal tracking-wide text-sm uppercase px-2 py-1">
-            {author}
-          </p>
-
-          <hr className="border-black" />
-
-          <div className="flex justify-between">
-            <p className="text-sm font-light inline pl-2 py-1">
+          <div className="flex justify-between items-center gap-2 px-2 py-1">
+            <p className="font-normal tracking-wide text-sm uppercase">
+              {author}
+            </p>
+            <p className="text-sm font-light shrink-0">
               {dateFinished
                 ? new Date(dateFinished).toLocaleDateString("en-GB", {
                     month: "long",
