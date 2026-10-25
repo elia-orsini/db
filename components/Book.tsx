@@ -1,6 +1,6 @@
 const Book: React.FC<{
   id: string;
-  link: string;
+  link: boolean | string;
   title: string;
   author: string;
   dateFinished: string;

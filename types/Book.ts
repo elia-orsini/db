@@ -3,5 +3,8 @@ export interface IBook {
   title: string;
   author: string;
   date_read: string;
-  link: string;
+  link: boolean | string;
+  notes?: string;
 }
+
+export type BooksByYear = Record<string, IBook[]>;

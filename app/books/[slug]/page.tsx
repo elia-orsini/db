@@ -1,34 +1,40 @@
-import { NextPage } from "next";
-import "react-notion/src/styles.css";
-import "prismjs/themes/prism-tomorrow.css";
-import { NotionRenderer } from "react-notion";
+import { Metadata } from "next";
+import { notFound } from "next/navigation";
 
 import Title from "../../../components/Title";
+import BookNotes from "../../../components/books/BookNotes";
+import { getBookById } from "../../../utils/getBooks";
 
-async function getData(slug: string) {
-  const data = await fetch(
-    `${process.env.CLOUDFLARE_WORKER}/v1/page/${slug}`
-  ).then((res) => res.json());
+const Page = async ({ params }: { params: { slug: string } }) => {
+  const book = await getBookById(params.slug);
 
-  return { bookContent: data };
-}
-
-const Page: NextPage<{ params: any }> = async ({ params }) => {
-  const { bookContent } = await getData(params.slug);
+  if (!book || !book.notes) {
+    notFound();
+  }
 
   return (
     <div className="min-h-screen">
       <div className="min-h-screen flex-col flex">
-        <Title leftSide={<span>title</span>} />
+        <Title leftSide={<span>{book.title}</span>} />
 
-        <div className="h-full my-10 mx-auto w-11/12 sm:w-8/12 justify-star">
-          <div>
-            <NotionRenderer blockMap={bookContent} />
-          </div>
+        <div className="h-full my-10 mx-auto w-11/12 sm:w-8/12">
+          <p className="uppercase tracking-wide text-sm mb-8">{book.author}</p>
+          <BookNotes notes={book.notes} />
         </div>
       </div>
     </div>
   );
 };
+
+export async function generateMetadata({
+  params,
+}: {
+  params: { slug: string };
+}): Promise<Metadata> {
+  const book = await getBookById(params.slug);
+  return {
+    title: book?.title || "Book notes",
+  };
+}
 
 export default Page;

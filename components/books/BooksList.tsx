@@ -1,7 +1,7 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 
-import { IBook } from "../../types/Book";
+import { BooksByYear, IBook } from "../../types/Book";
 import Book from "../Book";
 
 import BooksStats from "./BooksStats";
@@ -9,42 +9,21 @@ import BooksSwitchButton from "./BooksSwitchButton";
 import getDayOfYear from "../../utils/getDayOfYear";
 
 const BooksList: React.FC<{
-  books: {
-    "2021": IBook[];
-    "2022": IBook[];
-    "2023": IBook[];
-    "2024": IBook[];
-    "2025": IBook[];
-  };
+  books: BooksByYear;
 }> = ({ books }) => {
-  const [thisYear, setThisYear] = useState("2025");
+  const years = useMemo(
+    () => Object.keys(books).sort((a, b) => b.localeCompare(a)),
+    [books]
+  );
+  const [thisYear, setThisYear] = useState(years[0] || "");
   const [currentYearData, setCurrentYearData] = useState<IBook[]>([]);
 
-  currentYearData.length &&
-    currentYearData.map((book: IBook) => {
-      console.log(
-        Math.floor((getDayOfYear(new Date(book.date_read)) / 365) * 500)
-      );
-    });
+  useEffect(() => {
+    if (!thisYear && years[0]) setThisYear(years[0]);
+  }, [thisYear, years]);
 
   useEffect(() => {
-    switch (thisYear) {
-      case "2025":
-        setCurrentYearData(books["2025"]);
-        break;
-      case "2024":
-        setCurrentYearData(books["2024"]);
-        break;
-      case "2023":
-        setCurrentYearData(books["2023"]);
-        break;
-      case "2022":
-        setCurrentYearData(books["2022"]);
-        break;
-      case "2021":
-        setCurrentYearData(books["2021"]);
-        break;
-    }
+    setCurrentYearData(books[thisYear] || []);
   }, [thisYear, books]);
 
   return (
@@ -59,8 +38,9 @@ const BooksList: React.FC<{
         <hr className="w-72 mx-auto border-black" />
 
         <div className="mx-auto w-72 -mt-1">
-          {currentYearData.length &&
+          {currentYearData.length > 0 &&
             currentYearData.map((book: IBook) => {
+              if (!book.date_read) return null;
               return (
                 <div
                   key={book.id}
@@ -80,12 +60,12 @@ const BooksList: React.FC<{
         <BooksSwitchButton
           setState={setThisYear}
           state={thisYear}
-          states={["2025", "2024", "2023", "2022", "2021"]}
+          states={years}
         />
       </div>
 
       <div className="text-center mx-auto my-auto mb-8 grid md:grid-cols-2 lg:grid-cols-3 gap-2">
-        {currentYearData.length &&
+        {currentYearData.length > 0 &&
           currentYearData.map((book: IBook) => {
             return (
               <Book
