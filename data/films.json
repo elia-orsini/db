@@ -3,205 +3,205 @@
     "id": "birdman-or-the-unexpected-virtue-of-ignorance",
     "name": "Birdman or (The Unexpected Virtue of Ignorance)",
     "url": "https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/",
-    "img": "https://a.ltrbxd.com/resized/film-poster/1/3/9/7/9/5/139795-birdman-0-600-0-900-crop.jpg?v=345680513e",
+    "img": "https://image.tmdb.org/t/p/w1280/s0OrExdg7i3RLR7oqzHRk4q2kL4.jpg",
     "rating": 4,
     "watchedAt": "2026-10-17",
     "year": 2014,
+    "director": "Alejandro G. Iñárritu",
     "tmdbId": 194662,
-    "position": 0,
-    "director": "Alejandro G. Iñárritu"
+    "position": 0
   },
   {
     "id": "the-age-of-swordfish",
     "name": "The Age of Swordfish",
     "url": "https://letterboxd.com/film/the-age-of-swordfish/",
-    "img": "https://a.ltrbxd.com/resized/film-poster/1/1/1/8/3/9/111839-the-age-of-swordfish-0-600-0-900-crop.jpg?v=a2792143fb",
+    "img": "https://image.tmdb.org/t/p/w1280/9oCHxmwQA0CUD7xxcv9UeVne4as.jpg",
     "rating": 4,
     "watchedAt": "2026-10-16",
     "year": 1955,
+    "director": "Vittorio De Seta",
     "tmdbId": 148050,
-    "position": 1,
-    "director": "Vittorio De Seta"
+    "position": 1
   },
   {
     "id": "a-special-day",
     "name": "A Special Day",
     "url": "https://letterboxd.com/film/a-special-day/",
-    "img": "https://a.ltrbxd.com/resized/film-poster/2/2/8/4/2/22842-a-special-day-0-600-0-900-crop.jpg?v=bef9fcea8c",
+    "img": "https://image.tmdb.org/t/p/w1280/6d7ymk1OWX6AkfkhOnSEfwiqo2y.jpg",
     "rating": 4.5,
     "watchedAt": "2026-10-16",
     "year": 1977,
+    "director": "Ettore Scola",
     "tmdbId": 42229,
-    "position": 2,
-    "director": "Ettore Scola"
+    "position": 2
   },
   {
     "id": "la-dolce-vita",
     "name": "La Dolce Vita",
     "url": "https://letterboxd.com/film/la-dolce-vita/",
-    "img": "https://a.ltrbxd.com/resized/film-poster/5/1/6/5/6/51656-la-dolce-vita-0-600-0-900-crop.jpg?v=8fd824d49b",
+    "img": "https://image.tmdb.org/t/p/w1280/eN2NdMeJLNzLYzWIEEoaGzZAsiD.jpg",
     "rating": 5,
     "watchedAt": "2026-10-14",
     "year": 1960,
+    "director": "Federico Fellini",
     "tmdbId": 439,
-    "position": 3,
-    "director": "Federico Fellini"
+    "position": 3
   },
   {
     "id": "hot-fuzz",
     "name": "Hot Fuzz",
     "url": "https://letterboxd.com/film/hot-fuzz/",
-    "img": "https://a.ltrbxd.com/resized/sm/upload/xe/2y/e6/gy/4XLSKzQcE4lIgJgd71Y8UhAhxqQ-0-600-0-900-crop.jpg?v=45bc32b708",
+    "img": "https://image.tmdb.org/t/p/w1280/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
     "rating": 4,
     "watchedAt": "2026-10-13",
     "year": 2007,
+    "director": "Edgar Wright",
     "tmdbId": 4638,
-    "position": 4,
-    "director": "Edgar Wright"
+    "position": 4
   },
   {
     "id": "collateral",
     "name": "Collateral",
     "url": "https://letterboxd.com/film/collateral/",
-    "img": "https://a.ltrbxd.com/resized/film-poster/5/0/9/9/5/50995-collateral-0-600-0-900-crop.jpg?v=1691f38093",
+    "img": "https://image.tmdb.org/t/p/w1280/qVzmXKKOTtd3szkiCheCNrfa394.jpg",
     "rating": 4,
     "watchedAt": "2026-10-12",
     "year": 2004,
+    "director": "Michael Mann",
     "tmdbId": 1538,
-    "position": 5,
-    "director": "Michael Mann"
+    "position": 5
   },
   {
     "id": "the-passion-of-joan-of-arc",
     "name": "The Passion of Joan of Arc",
     "url": "https://letterboxd.com/film/the-passion-of-joan-of-arc/",
-    "img": "https://a.ltrbxd.com/resized/film-poster/5/1/3/7/2/51372-the-passion-of-joan-of-arc-0-600-0-900-crop.jpg?v=6c0e1e9561",
+    "img": "https://image.tmdb.org/t/p/w1280/uyYwhxRnXGuGWoCxiAdINlRExud.jpg",
     "rating": 5,
     "watchedAt": "2026-10-11",
     "year": 1928,
+    "director": "Carl Theodor Dreyer",
     "tmdbId": 780,
-    "position": 6,
-    "director": "Carl Theodor Dreyer"
+    "position": 6
   },
   {
     "id": "lord-of-war",
     "name": "Lord of War",
     "url": "https://letterboxd.com/film/lord-of-war/",
-    "img": "https://a.ltrbxd.com/resized/film-poster/5/0/7/6/9/50769-lord-of-war-0-600-0-900-crop.jpg?v=2c56adceb5",
+    "img": "https://image.tmdb.org/t/p/w1280/kBSDfMjItDS1XwzKX7gNuqvrtV3.jpg",
     "rating": 4,
     "watchedAt": "2026-10-09",
     "year": 2005,
+    "director": "Andrew Niccol",
     "tmdbId": 1830,
-    "position": 7,
-    "director": "Andrew Niccol"
+    "position": 7
   },
   {
     "id": "the-big-lebowski",
     "name": "The Big Lebowski",
     "url": "https://letterboxd.com/film/the-big-lebowski/",
-    "img": "https://a.ltrbxd.com/resized/film-poster/5/1/9/3/5/51935-the-big-lebowski-0-600-0-900-crop.jpg?v=5cd64defcf",
+    "img": "https://image.tmdb.org/t/p/w1280/77ElMccPnTMPouRxSdbJ4nEjf69.jpg",
     "rating": 4,
     "watchedAt": "2026-10-09",
     "year": 1998,
+    "director": "Joel Coen",
     "tmdbId": 115,
-    "position": 8,
-    "director": "Joel Coen"
+    "position": 8
   },
   {
     "id": "il-posto",
     "name": "Il Posto",
     "url": "https://letterboxd.com/film/il-posto/",
-    "img": "https://a.ltrbxd.com/resized/film-poster/3/0/9/1/7/30917-il-posto-0-600-0-900-crop.jpg?v=e8e0d7d717",
+    "img": "https://image.tmdb.org/t/p/w1280/suP5OvMzfzEt0MHD61T1x2rk6xf.jpg",
     "rating": 4,
     "watchedAt": "2026-10-06",
     "year": 1961,
+    "director": "Ermanno Olmi",
     "tmdbId": 31742,
-    "position": 9,
-    "director": "Ermanno Olmi"
+    "position": 9
   },
   {
     "id": "the-last-one-for-the-road",
     "name": "The Last One for the Road",
     "url": "https://letterboxd.com/film/the-last-one-for-the-road/",
-    "img": "https://a.ltrbxd.com/resized/film-poster/1/3/3/9/0/6/3/1339063-the-last-one-for-the-road-0-600-0-900-crop.jpg?v=09060ee38b",
+    "img": "https://image.tmdb.org/t/p/w1280/105dMBJGgkM0SzgjV62KzlMDdG8.jpg",
     "rating": 4,
     "watchedAt": "2026-10-04",
     "year": 2025,
+    "director": "Francesco Sossai",
     "tmdbId": 1462322,
-    "position": 10,
-    "director": "Francesco Sossai"
+    "position": 10
   },
   {
     "id": "koyaanisqatsi",
     "name": "Koyaanisqatsi",
     "url": "https://letterboxd.com/film/koyaanisqatsi/",
-    "img": "https://a.ltrbxd.com/resized/film-poster/4/5/4/1/9/45419-koyaanisqatsi-0-600-0-900-crop.jpg?v=86db24b95a",
+    "img": "https://image.tmdb.org/t/p/w1280/g2ULq1sv4rDY7UsLzaiGdb6zjbj.jpg",
     "rating": 4.5,
     "watchedAt": "2026-10-04",
     "year": 1982,
+    "director": "Godfrey Reggio",
     "tmdbId": 11314,
-    "position": 11,
-    "director": "Godfrey Reggio"
+    "position": 11
   },
   {
     "id": "marketa-lazarova",
     "name": "Marketa Lazarová",
     "url": "https://letterboxd.com/film/marketa-lazarova/",
-    "img": "https://a.ltrbxd.com/resized/film-poster/3/5/7/0/5/35705-marketa-lazarova-0-600-0-900-crop.jpg?v=234c1f19fd",
+    "img": "https://image.tmdb.org/t/p/w1280/1Vbd0TVNZXlzTlyLkYnOMzpq1eH.jpg",
     "rating": 4,
     "watchedAt": "2026-10-03",
     "year": 1967,
+    "director": "František Vláčil",
     "tmdbId": 25904,
-    "position": 12,
-    "director": "František Vláčil"
+    "position": 12
   },
   {
     "id": "the-treasure-of-the-sierra-madre",
     "name": "The Treasure of the Sierra Madre",
     "url": "https://letterboxd.com/film/the-treasure-of-the-sierra-madre/",
-    "img": "https://a.ltrbxd.com/resized/film-poster/4/9/8/8/1/49881-the-treasure-of-the-sierra-madre-0-600-0-900-crop.jpg?v=1f86ef93a1",
+    "img": "https://image.tmdb.org/t/p/w1280/osytHgkv86CTFKxo46l9P7ACEjm.jpg",
     "rating": 4.5,
     "watchedAt": "2026-10-03",
     "year": 1948,
+    "director": "John Huston",
     "tmdbId": 3090,
-    "position": 13,
-    "director": "John Huston"
+    "position": 13
   },
   {
     "id": "brazil",
     "name": "Brazil",
     "url": "https://letterboxd.com/film/brazil/",
-    "img": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-600-0-900-crop.jpg?v=cc28feee48",
+    "img": "https://image.tmdb.org/t/p/w1280/9IYyCLf5NNAQFK9pNtqzEU9HWzM.jpg",
     "rating": 4,
     "watchedAt": "2026-10-01",
     "year": 1985,
+    "director": "Terry Gilliam",
     "tmdbId": 68,
-    "position": 14,
-    "director": "Terry Gilliam"
+    "position": 14
   },
   {
     "id": "missing",
     "name": "Missing",
     "url": "https://letterboxd.com/film/missing/",
-    "img": "https://a.ltrbxd.com/resized/sm/upload/qp/8i/ld/la/b7L4cl5OUHMr1aB2CUajWXJwAZy-0-600-0-900-crop.jpg?v=398db565a6",
+    "img": "https://image.tmdb.org/t/p/w1280/49rQkLwYxUK7zQP69e87MspS4E2.jpg",
     "rating": 4,
     "watchedAt": "2026-09-27",
     "year": 1982,
+    "director": "Costa-Gavras",
     "tmdbId": 15600,
-    "position": 15,
-    "director": "Costa-Gavras"
+    "position": 15
   },
   {
     "id": "all-about-lily-chou-chou",
     "name": "All About Lily Chou-Chou",
     "url": "https://letterboxd.com/film/all-about-lily-chou-chou/",
-    "img": "https://a.ltrbxd.com/resized/film-poster/4/1/4/4/7/41447-all-about-lily-chou-chou-0-600-0-900-crop.jpg?v=7db4522cd0",
+    "img": "https://image.tmdb.org/t/p/w1280/wTWy7b1SKslcNn1GDah6S7MQa5p.jpg",
     "rating": 4,
     "watchedAt": "2026-09-26",
     "year": 2001,
+    "director": "Shunji Iwai",
     "tmdbId": 16664,
-    "position": 16,
-    "director": "Shunji Iwai"
+    "position": 16
   },
   {
     "id": "portrait-of-a-lady-on-fire",
@@ -210,9 +210,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/6s/c1/hx/il/portrait-of-lady-on-fire-1200-1200-675-675-crop-000000.jpg?v=9e65e80a13",
     "rating": 4,
     "watchedAt": null,
-    "position": 17,
     "year": 2019,
-    "director": "Céline Sciamma"
+    "director": "Céline Sciamma",
+    "position": 17
   },
   {
     "id": "yi-yi",
@@ -221,9 +221,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/yc/mc/ep/c9/yi-yi-1200-1200-675-675-crop-000000.jpg?v=b55a45939d",
     "rating": 4,
     "watchedAt": null,
-    "position": 18,
     "year": 2000,
-    "director": "Edward Yang"
+    "director": "Edward Yang",
+    "position": 18
   },
   {
     "id": "eastern-promises",
@@ -232,9 +232,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/8a/xg/vj/46/eastern-promises-1200-1200-675-675-crop-000000.jpg?v=a835d61fb7",
     "rating": 4,
     "watchedAt": null,
-    "position": 19,
     "year": 2007,
-    "director": "David Cronenberg"
+    "director": "David Cronenberg",
+    "position": 19
   },
   {
     "id": "the-odyssey-2026",
@@ -243,20 +243,21 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/vn/7k/d6/d7/odyssey-1200-1200-675-675-crop-000000.jpg?v=9f3eb79026",
     "rating": 4,
     "watchedAt": null,
-    "position": 20,
     "year": 2026,
-    "director": "Christopher Nolan"
+    "director": "Christopher Nolan",
+    "position": 20
   },
   {
     "id": "manufactured-landscapes",
     "name": "Manufactured Landscapes",
     "url": "https://letterboxd.com/film/manufactured-landscapes/",
-    "img": "https://a.ltrbxd.com/resized/film-poster/3/6/6/7/3/36673-manufactured-landscapes-0-600-0-900-crop.jpg?v=d01089b4ac",
+    "img": "https://image.tmdb.org/t/p/w1280/3Klsy1O5Hh9CFYgGShlarrq2yff.jpg",
     "rating": 4,
     "watchedAt": null,
-    "position": 21,
     "year": 2006,
-    "director": "Jennifer Baichwal"
+    "director": "Jennifer Baichwal",
+    "position": 21,
+    "tmdbId": 24582
   },
   {
     "id": "babylon-2022",
@@ -265,9 +266,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/dp/27/f7/je/babylon-1200-1200-675-675-crop-000000.jpg?v=e245c7cfce",
     "rating": 4,
     "watchedAt": null,
-    "position": 22,
     "year": 2022,
-    "director": "Damien Chazelle"
+    "director": "Damien Chazelle",
+    "position": 22
   },
   {
     "id": "moonlight-2016",
@@ -276,9 +277,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/6x/tq/pl/q7/moonlight-2016-1200-1200-675-675-crop-000000.jpg?v=787301ae3d",
     "rating": 4,
     "watchedAt": null,
-    "position": 23,
     "year": 2016,
-    "director": "Barry Jenkins"
+    "director": "Barry Jenkins",
+    "position": 23
   },
   {
     "id": "licorice-pizza",
@@ -287,9 +288,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/fr/5h/tc/zw/licorice-1200-1200-675-675-crop-000000.jpg?v=5eb30c2c9e",
     "rating": 4,
     "watchedAt": null,
-    "position": 24,
     "year": 2021,
-    "director": "Paul Thomas Anderson"
+    "director": "Paul Thomas Anderson",
+    "position": 24
   },
   {
     "id": "the-eight-mountains",
@@ -298,9 +299,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/fi/th/gx/rr/eight-1200-1200-675-675-crop-000000.jpg?v=11a889127e",
     "rating": 4,
     "watchedAt": null,
-    "position": 25,
     "year": 2022,
-    "director": "Felix van Groeningen, Charlotte Vandermeersch"
+    "director": "Felix van Groeningen, Charlotte Vandermeersch",
+    "position": 25
   },
   {
     "id": "here-2023",
@@ -309,9 +310,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/ul/7n/rt/iw/here-1200-1200-675-675-crop-000000.jpg?v=ad87dc46f7",
     "rating": 4,
     "watchedAt": null,
-    "position": 26,
     "year": 2023,
-    "director": "Bas Devos"
+    "director": "Bas Devos",
+    "position": 26
   },
   {
     "id": "mulholland-drive",
@@ -320,9 +321,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/h2/6c/u6/vy/mulholland-drive-60-1200-1200-675-675-crop-000000.jpg?v=39351034b2",
     "rating": 4,
     "watchedAt": null,
-    "position": 27,
     "year": 2001,
-    "director": "David Lynch"
+    "director": "David Lynch",
+    "position": 27
   },
   {
     "id": "bugonia",
@@ -331,9 +332,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/jf/rv/eq/r2/bug-1200-1200-675-675-crop-000000.jpg?v=9227b4cd8a",
     "rating": 4,
     "watchedAt": null,
-    "position": 28,
     "year": 2025,
-    "director": "Yorgos Lanthimos"
+    "director": "Yorgos Lanthimos",
+    "position": 28
   },
   {
     "id": "after-yang",
@@ -342,9 +343,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/qc/sa/ls/im/after-yang-1200-1200-675-675-crop-000000.jpg?v=34ba67b80d",
     "rating": 4,
     "watchedAt": null,
-    "position": 29,
     "year": 2021,
-    "director": "Kogonada"
+    "director": "Kogonada",
+    "position": 29
   },
   {
     "id": "knight-of-cups",
@@ -353,9 +354,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/qh/ib/0s/0h/knight-of-cups-1200-1200-675-675-crop-000000.jpg?v=6d5919d2bc",
     "rating": 4,
     "watchedAt": null,
-    "position": 30,
     "year": 2015,
-    "director": "Terrence Malick"
+    "director": "Terrence Malick",
+    "position": 30
   },
   {
     "id": "all-watched-over-by-machines-of-loving-grace",
@@ -364,9 +365,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/43/jf/zz/bt/hK0XeevzznL1NgLE98zidRHQjwS-1200-1200-675-675-crop-000000.jpg?v=96cdd62219",
     "rating": 4,
     "watchedAt": null,
-    "position": 31,
     "year": 2011,
-    "director": "Adam Curtis"
+    "director": "Adam Curtis",
+    "position": 31
   },
   {
     "id": "american-gangster",
@@ -375,9 +376,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/5m/9w/dk/92/american-gangster-1200-1200-675-675-crop-000000.jpg?v=b29e23cb8e",
     "rating": 4,
     "watchedAt": null,
-    "position": 32,
     "year": 2007,
-    "director": "Ridley Scott"
+    "director": "Ridley Scott",
+    "position": 32
   },
   {
     "id": "lawrence-of-arabia",
@@ -386,9 +387,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/99/4b/qr/9o/lawrence-of-arabia-1200-1200-675-675-crop-000000.jpg?v=083f410dd7",
     "rating": 4,
     "watchedAt": null,
-    "position": 33,
     "year": 1962,
-    "director": "David Lean"
+    "director": "David Lean",
+    "position": 33
   },
   {
     "id": "avatar",
@@ -397,9 +398,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/7s/di/by/2k/avatar-1200-1200-675-675-crop-000000.jpg?v=95bd991ae8",
     "rating": 4,
     "watchedAt": null,
-    "position": 34,
     "year": 2009,
-    "director": "James Cameron"
+    "director": "James Cameron",
+    "position": 34
   },
   {
     "id": "godland",
@@ -408,9 +409,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/hr/fr/ii/qo/godland-1200-1200-675-675-crop-000000.jpg?v=96f012d2ac",
     "rating": 4,
     "watchedAt": null,
-    "position": 35,
     "year": 2022,
-    "director": "Hlynur Pálmason"
+    "director": "Hlynur Pálmason",
+    "position": 35
   },
   {
     "id": "triangle-of-sadness",
@@ -419,9 +420,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/1v/pd/wj/7b/triangle-1200-1200-675-675-crop-000000.jpg?v=22d2a49a2e",
     "rating": 4,
     "watchedAt": null,
-    "position": 36,
     "year": 2022,
-    "director": "Ruben Östlund"
+    "director": "Ruben Östlund",
+    "position": 36
   },
   {
     "id": "poor-things-2023",
@@ -430,9 +431,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/33/cq/4s/53/gsVC7HMf4VR2XFOyqjTSklY2Tms-1200-1200-675-675-crop-000000.jpg?v=026c0bec1a",
     "rating": 4,
     "watchedAt": null,
-    "position": 37,
     "year": 2023,
-    "director": "Yorgos Lanthimos"
+    "director": "Yorgos Lanthimos",
+    "position": 37
   },
   {
     "id": "the-consequences-of-love",
@@ -441,9 +442,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/bt/p5/99/et/consequences-1200-1200-675-675-crop-000000.jpg?v=47fe812c01",
     "rating": 4,
     "watchedAt": null,
-    "position": 38,
     "year": 2004,
-    "director": "Paolo Sorrentino"
+    "director": "Paolo Sorrentino",
+    "position": 38
   },
   {
     "id": "about-dry-grasses",
@@ -452,9 +453,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/sk/5n/ov/ul/about-1200-1200-675-675-crop-000000.jpg?v=b646c2635d",
     "rating": 4,
     "watchedAt": null,
-    "position": 39,
     "year": 2023,
-    "director": "Nuri Bilge Ceylan"
+    "director": "Nuri Bilge Ceylan",
+    "position": 39
   },
   {
     "id": "little-miss-sunshine",
@@ -463,9 +464,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/y0/dk/kc/ch/little-miss-sunshine-1200-1200-675-675-crop-000000.jpg?v=7a5e15b3f1",
     "rating": 4,
     "watchedAt": null,
-    "position": 40,
     "year": 2006,
-    "director": "Valerie Faris, Jonathan Dayton"
+    "director": "Valerie Faris, Jonathan Dayton",
+    "position": 40
   },
   {
     "id": "sidewalls",
@@ -474,9 +475,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/nd/qh/zh/au/sidewalls-1200-1200-675-675-crop-000000.jpg?v=2325bcc185",
     "rating": 4,
     "watchedAt": null,
-    "position": 41,
     "year": 2011,
-    "director": "Gustavo Taretto"
+    "director": "Gustavo Taretto",
+    "position": 41
   },
   {
     "id": "the-battle-of-algiers",
@@ -485,9 +486,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/kt/5s/28/w3/battle-algiers-1200-1200-675-675-crop-000000.jpg?v=70389d0066",
     "rating": 4,
     "watchedAt": null,
-    "position": 42,
     "year": 1966,
-    "director": "Gillo Pontecorvo"
+    "director": "Gillo Pontecorvo",
+    "position": 42
   },
   {
     "id": "michael-clayton",
@@ -496,9 +497,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/dd/t3/gz/ki/michael-clayton-1200-1200-675-675-crop-000000.jpg?v=0abb1c8960",
     "rating": 4,
     "watchedAt": null,
-    "position": 43,
     "year": 2007,
-    "director": "Tony Gilroy"
+    "director": "Tony Gilroy",
+    "position": 43
   },
   {
     "id": "rush-2013",
@@ -507,9 +508,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/hj/qm/jr/40/rush-1200-1200-675-675-crop-000000.jpg?v=75730b7d17",
     "rating": 4,
     "watchedAt": null,
-    "position": 44,
     "year": 2013,
-    "director": "Ron Howard"
+    "director": "Ron Howard",
+    "position": 44
   },
   {
     "id": "perfect-strangers-2016",
@@ -518,9 +519,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/2f/3p/z5/07/perfect-strangers-2016-1200-1200-675-675-crop-000000.jpg?v=bc4bc8cca8",
     "rating": 4,
     "watchedAt": null,
-    "position": 45,
     "year": 2016,
-    "director": "Paolo Genovese"
+    "director": "Paolo Genovese",
+    "position": 45
   },
   {
     "id": "badlands",
@@ -529,9 +530,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/xb/c4/3s/xf/badlands-1200-1200-675-675-crop-000000.jpg?v=bfa2810e95",
     "rating": 4,
     "watchedAt": null,
-    "position": 46,
     "year": 1973,
-    "director": "Terrence Malick"
+    "director": "Terrence Malick",
+    "position": 46
   },
   {
     "id": "mad-max-fury-road",
@@ -540,9 +541,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/50/tw/wa/80/mad-max-fury-road-1200-1200-675-675-crop-000000.jpg?v=1a543f4e46",
     "rating": 4,
     "watchedAt": null,
-    "position": 47,
     "year": 2015,
-    "director": "George Miller"
+    "director": "George Miller",
+    "position": 47
   },
   {
     "id": "dog-day-afternoon",
@@ -551,9 +552,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/wq/x5/2y/qi/tbusEHqOfnLeA8QiqfvwDReO9NV-1200-1200-675-675-crop-000000.jpg?v=a10cfc0f3d",
     "rating": 4,
     "watchedAt": null,
-    "position": 48,
     "year": 1975,
-    "director": "Sidney Lumet"
+    "director": "Sidney Lumet",
+    "position": 48
   },
   {
     "id": "scent-of-a-woman",
@@ -562,9 +563,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/y8/ql/n6/a5/scentofawoman-1200-1200-675-675-crop-000000.jpg?v=38f326697c",
     "rating": 4,
     "watchedAt": null,
-    "position": 49,
     "year": 1992,
-    "director": "Martin Brest"
+    "director": "Martin Brest",
+    "position": 49
   },
   {
     "id": "good-will-hunting",
@@ -573,20 +574,21 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/30/pr/tv/eg/IMG_5729-1200-1200-675-675-crop-000000.jpg?v=75da5f7335",
     "rating": 4,
     "watchedAt": null,
-    "position": 50,
     "year": 1997,
-    "director": "Gus Van Sant"
+    "director": "Gus Van Sant",
+    "position": 50
   },
   {
     "id": "gambling-gods-and-lsd",
     "name": "Gambling, Gods and LSD",
     "url": "https://letterboxd.com/film/gambling-gods-and-lsd/",
-    "img": "https://a.ltrbxd.com/resized/film-poster/7/6/6/8/3/76683-gambling-gods-and-lsd-0-600-0-900-crop.jpg?v=db09df7525",
+    "img": "https://image.tmdb.org/t/p/w1280/pBLEmmP1ncBar7zHBE075DINPuX.jpg",
     "rating": 4,
     "watchedAt": null,
-    "position": 51,
     "year": 2002,
-    "director": "Peter Mettler"
+    "director": "Peter Mettler",
+    "position": 51,
+    "tmdbId": 91693
   },
   {
     "id": "being-john-malkovich",
@@ -595,9 +597,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/be/r6/i9/cw/being-john-malkovich-1200-1200-675-675-crop-000000.jpg?v=318a29f183",
     "rating": 4,
     "watchedAt": null,
-    "position": 52,
     "year": 1999,
-    "director": "Spike Jonze"
+    "director": "Spike Jonze",
+    "position": 52
   },
   {
     "id": "valparaiso-1963",
@@ -606,9 +608,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/me/zp/xo/9i/valparaiso-1200-1200-675-675-crop-000000.jpg?v=92453fdc26",
     "rating": 4,
     "watchedAt": null,
-    "position": 53,
     "year": 1963,
-    "director": "Joris Ivens"
+    "director": "Joris Ivens",
+    "position": 53
   },
   {
     "id": "stalker",
@@ -617,9 +619,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/hm/9i/xs/np/stalker-1200-1200-675-675-crop-000000.jpg?v=cb028d9961",
     "rating": 4,
     "watchedAt": null,
-    "position": 54,
     "year": 1979,
-    "director": "Andrei Tarkovsky"
+    "director": "Andrei Tarkovsky",
+    "position": 54
   },
   {
     "id": "stand-by-me",
@@ -628,9 +630,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/kv/9l/ks/8f/stand-by-me-1200-1200-675-675-crop-000000.jpg?v=3617274520",
     "rating": 4,
     "watchedAt": null,
-    "position": 55,
     "year": 1986,
-    "director": "Rob Reiner"
+    "director": "Rob Reiner",
+    "position": 55
   },
   {
     "id": "the-internets-own-boy-the-story-of-aaron-swartz",
@@ -639,9 +641,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/16/2s/3v/u3/internets-own-boy-1200-1200-675-675-crop-000000.jpg?v=a2c0937392",
     "rating": 4,
     "watchedAt": null,
-    "position": 56,
     "year": 2014,
-    "director": "Brian Knappenberger"
+    "director": "Brian Knappenberger",
+    "position": 56
   },
   {
     "id": "past-lives",
@@ -650,9 +652,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/w5/vf/ru/qm/past-lives-1200-1200-675-675-crop-000000.jpg?v=2ff888a5e1",
     "rating": 4,
     "watchedAt": null,
-    "position": 57,
     "year": 2023,
-    "director": "Celine Song"
+    "director": "Celine Song",
+    "position": 57
   },
   {
     "id": "silence",
@@ -661,20 +663,21 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/qt/hj/ck/ur/silence-1200-1200-675-675-crop-000000.jpg?v=23f81bb8c6",
     "rating": 4,
     "watchedAt": null,
-    "position": 58,
     "year": 2016,
-    "director": "Martin Scorsese"
+    "director": "Martin Scorsese",
+    "position": 58
   },
   {
     "id": "the-social-life-of-small-urban-spaces",
     "name": "The Social Life of Small Urban Spaces",
     "url": "https://letterboxd.com/film/the-social-life-of-small-urban-spaces/",
-    "img": "https://a.ltrbxd.com/resized/film-poster/1/2/9/6/7/0/129670-social-life-of-small-urban-spaces-0-600-0-900-crop.jpg?v=4dc27df7da",
+    "img": "https://image.tmdb.org/t/p/w1280/qrYsiBJ1oRDUWKCP4CS3dZSx1oZ.jpg",
     "rating": 4,
     "watchedAt": null,
-    "position": 59,
     "year": 1980,
-    "director": "William H. Whyte"
+    "director": "William H. Whyte",
+    "position": 59,
+    "tmdbId": 177599
   },
   {
     "id": "scarface-1983",
@@ -683,9 +686,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/xs/d9/wj/nt/scarface-1200-1200-675-675-crop-000000.jpg?v=3e9a08f31f",
     "rating": 4,
     "watchedAt": null,
-    "position": 60,
     "year": 1983,
-    "director": "Brian De Palma"
+    "director": "Brian De Palma",
+    "position": 60
   },
   {
     "id": "slumdog-millionaire",
@@ -694,9 +697,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/hs/8w/zu/6c/slumdog-millionaire-1200-1200-675-675-crop-000000.jpg?v=75cd062a0c",
     "rating": 4,
     "watchedAt": null,
-    "position": 61,
     "year": 2008,
-    "director": "Danny Boyle"
+    "director": "Danny Boyle",
+    "position": 61
   },
   {
     "id": "12-angry-men",
@@ -705,9 +708,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/h5/vs/mz/mj/12-angry-men-1200-1200-675-675-crop-000000.jpg?v=fa78296b3b",
     "rating": 4,
     "watchedAt": null,
-    "position": 62,
     "year": 1957,
-    "director": "Sidney Lumet"
+    "director": "Sidney Lumet",
+    "position": 62
   },
   {
     "id": "a-poet",
@@ -716,9 +719,9 @@
     "img": "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/4/2/5/6/7/tmdb/aY6mZHUAcL2YjnRmp0tRyYtmN9l-1200-1200-675-675-crop-000000.jpg?v=17705fb11b",
     "rating": 4,
     "watchedAt": null,
-    "position": 63,
     "year": 2025,
-    "director": "Simón Mesa Soto"
+    "director": "Simón Mesa Soto",
+    "position": 63
   },
   {
     "id": "mother-2009",
@@ -727,9 +730,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/90/yc/pf/yi/mother-2009-1200-1200-675-675-crop-000000.jpg?v=eda23eedd0",
     "rating": 4,
     "watchedAt": null,
-    "position": 64,
     "year": 2009,
-    "director": "Bong Joon Ho"
+    "director": "Bong Joon Ho",
+    "position": 64
   },
   {
     "id": "the-pianist",
@@ -738,9 +741,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/ej/w9/nb/z9/the-pianist-1200-1200-675-675-crop-000000.jpg?v=2f6a85aa12",
     "rating": 4,
     "watchedAt": null,
-    "position": 65,
     "year": 2002,
-    "director": "Roman Polanski"
+    "director": "Roman Polanski",
+    "position": 65
   },
   {
     "id": "three-colours-red",
@@ -749,9 +752,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/5l/fs/4y/sp/red-1200-1200-675-675-crop-000000.jpg?v=35996ace23",
     "rating": 4,
     "watchedAt": null,
-    "position": 66,
     "year": 1994,
-    "director": "Krzysztof Kieślowski"
+    "director": "Krzysztof Kieślowski",
+    "position": 66
   },
   {
     "id": "rome-open-city",
@@ -760,9 +763,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/7x/gv/66/rq/rome-1200-1200-675-675-crop-000000.jpg?v=1bd00e5178",
     "rating": 4,
     "watchedAt": null,
-    "position": 67,
     "year": 1945,
-    "director": "Roberto Rossellini"
+    "director": "Roberto Rossellini",
+    "position": 67
   },
   {
     "id": "ping-pong-the-animation",
@@ -771,9 +774,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/6x/lu/9q/m2/ping%20pong-1200-1200-675-675-crop-000000.jpg?v=b45b350d39",
     "rating": 4,
     "watchedAt": null,
-    "position": 68,
     "year": 2014,
-    "director": "Takehiro Kubota, Hideki Ito"
+    "director": "Takehiro Kubota, Hideki Ito",
+    "position": 68
   },
   {
     "id": "a-fistful-of-dollars",
@@ -782,9 +785,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/ck/af/in/xb/a-fistfull-of-dollars-1200-1200-675-675-crop-000000.jpg?v=5b2cca9778",
     "rating": 4,
     "watchedAt": null,
-    "position": 69,
     "year": 1964,
-    "director": "Sergio Leone"
+    "director": "Sergio Leone",
+    "position": 69
   },
   {
     "id": "memoria-2021",
@@ -793,9 +796,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/7j/70/nf/qq/memoria-1200-1200-675-675-crop-000000.jpg?v=5f6258553b",
     "rating": 4,
     "watchedAt": null,
-    "position": 70,
     "year": 2021,
-    "director": "Apichatpong Weerasethakul"
+    "director": "Apichatpong Weerasethakul",
+    "position": 70
   },
   {
     "id": "herb-dorothy",
@@ -804,9 +807,9 @@
     "img": "https://a.ltrbxd.com/resized/film-poster/2/6/9/1/0/26910-herb-dorothy-0-600-0-900-crop.jpg?v=cac100720a",
     "rating": 4,
     "watchedAt": null,
-    "position": 71,
     "year": 2008,
-    "director": "Megumi Sasaki"
+    "director": "Megumi Sasaki",
+    "position": 71
   },
   {
     "id": "good-news-2025",
@@ -815,9 +818,9 @@
     "img": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/7/8/9/4/3/tmdb/dNYo4Qg3CnZFbzeet59d4cdhRkK-1200-1200-675-675-crop-000000.jpg?v=4af43a7468",
     "rating": 4,
     "watchedAt": null,
-    "position": 72,
     "year": 2025,
-    "director": "Byun Sung-hyun"
+    "director": "Byun Sung-hyun",
+    "position": 72
   },
   {
     "id": "the-time-that-remains",
@@ -826,9 +829,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/0n/gt/fa/vn/caMQlCtw1Qn44OQx2zEfn9ZN5eb-1200-1200-675-675-crop-000000.jpg?v=0300ce3012",
     "rating": 4,
     "watchedAt": null,
-    "position": 73,
     "year": 2009,
-    "director": "Elia Suleiman"
+    "director": "Elia Suleiman",
+    "position": 73
   },
   {
     "id": "kill-bill-vol-1",
@@ -837,9 +840,9 @@
     "img": "https://a.ltrbxd.com/resized/alternative-backdrop/2/6/9/4/tmdb/lVy5Zqcty2NfemqKYbVJfdg44rK-1200-1200-675-675-crop-000000.jpg?v=4a454016fa",
     "rating": 4,
     "watchedAt": null,
-    "position": 74,
     "year": 2003,
-    "director": "Quentin Tarantino"
+    "director": "Quentin Tarantino",
+    "position": 74
   },
   {
     "id": "hackers",
@@ -848,20 +851,21 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/pc/gj/bq/ec/hackers-1200-1200-675-675-crop-000000.jpg?v=18cd1be209",
     "rating": 4,
     "watchedAt": null,
-    "position": 75,
     "year": 1995,
-    "director": "Iain Softley"
+    "director": "Iain Softley",
+    "position": 75
   },
   {
     "id": "differently-molussia",
     "name": "Differently, Molussia",
     "url": "https://letterboxd.com/film/differently-molussia/",
-    "img": "https://a.ltrbxd.com/resized/film-poster/9/3/5/6/5/93565-differently-molussia-0-600-0-900-crop.jpg?v=7a5d4046c8",
+    "img": "https://image.tmdb.org/t/p/w1280/taFM8qwAObXS5A2GFO2lS7ZTtOQ.jpg",
     "rating": 4,
     "watchedAt": null,
-    "position": 76,
     "year": 2012,
-    "director": "Nicolas Rey"
+    "director": "Nicolas Rey",
+    "position": 76,
+    "tmdbId": 118145
   },
   {
     "id": "the-godfather-part-ii",
@@ -870,9 +874,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/rw/q1/s4/xy/the-godfather-part-ii-1200-1200-675-675-crop-000000.jpg?v=e76eb25900",
     "rating": 4,
     "watchedAt": null,
-    "position": 77,
     "year": 1974,
-    "director": "Francis Ford Coppola"
+    "director": "Francis Ford Coppola",
+    "position": 77
   },
   {
     "id": "a-taxi-driver",
@@ -881,9 +885,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/qm/t4/w1/mc/a-taxi-driver-1200-1200-675-675-crop-000000.jpg?v=05a0e60dd4",
     "rating": 4,
     "watchedAt": null,
-    "position": 78,
     "year": 2017,
-    "director": "Jang Hoon"
+    "director": "Jang Hoon",
+    "position": 78
   },
   {
     "id": "12-years-a-slave",
@@ -892,9 +896,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/fr/f5/gz/6v/12-years-a-slave-1200-1200-675-675-crop-000000.jpg?v=8e8f57e8d0",
     "rating": 4,
     "watchedAt": null,
-    "position": 79,
     "year": 2013,
-    "director": "Steve McQueen"
+    "director": "Steve McQueen",
+    "position": 79
   },
   {
     "id": "black-dog-2024",
@@ -903,9 +907,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/49/0k/k3/wp/blackl-1200-1200-675-675-crop-000000.jpg?v=9edf1e2037",
     "rating": 4,
     "watchedAt": null,
-    "position": 80,
     "year": 2024,
-    "director": "Guan Hu"
+    "director": "Guan Hu",
+    "position": 80
   },
   {
     "id": "the-thin-red-line",
@@ -914,9 +918,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/ee/da/3c/9u/the-thin-red-line-1200-1200-675-675-crop-000000.jpg?v=37178d663c",
     "rating": 4,
     "watchedAt": null,
-    "position": 81,
     "year": 1998,
-    "director": "Terrence Malick"
+    "director": "Terrence Malick",
+    "position": 81
   },
   {
     "id": "fallen-angels",
@@ -925,9 +929,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/mr/p7/cy/5h/fallen-angels-1200-1200-675-675-crop-000000.jpg?v=b79bc8eb91",
     "rating": 4,
     "watchedAt": null,
-    "position": 82,
     "year": 1995,
-    "director": "Wong Kar-Wai"
+    "director": "Wong Kar-Wai",
+    "position": 82
   },
   {
     "id": "her",
@@ -936,9 +940,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/cb/fz/at/20/her-1200-1200-675-675-crop-000000.jpg?v=81add3bc83",
     "rating": 4,
     "watchedAt": null,
-    "position": 83,
     "year": 2013,
-    "director": "Spike Jonze"
+    "director": "Spike Jonze",
+    "position": 83
   },
   {
     "id": "monster-2023",
@@ -947,9 +951,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/sc/wq/nm/ki/monster-1200-1200-675-675-crop-000000.jpg?v=6fe4edf34e",
     "rating": 4,
     "watchedAt": null,
-    "position": 84,
     "year": 2023,
-    "director": "Hirokazu Kore-eda"
+    "director": "Hirokazu Kore-eda",
+    "position": 84
   },
   {
     "id": "oppenheimer-2023",
@@ -958,9 +962,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/mn/uu/op/02/oppenheimer-2023-1200-1200-675-675-crop-000000.jpg?v=aa1b3a6d85",
     "rating": 4,
     "watchedAt": null,
-    "position": 85,
     "year": 2023,
-    "director": "Christopher Nolan"
+    "director": "Christopher Nolan",
+    "position": 85
   },
   {
     "id": "anatomy-of-a-fall",
@@ -969,9 +973,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/wt/mj/4u/pj/anatomy-1200-1200-675-675-crop-000000.jpg?v=b1310de47c",
     "rating": 4,
     "watchedAt": null,
-    "position": 86,
     "year": 2023,
-    "director": "Justine Triet"
+    "director": "Justine Triet",
+    "position": 86
   },
   {
     "id": "the-truman-show",
@@ -980,9 +984,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/z0/rf/dt/5l/truman-show-115-1200-1200-675-675-crop-000000.jpg?v=1047828fc6",
     "rating": 4,
     "watchedAt": null,
-    "position": 87,
     "year": 1998,
-    "director": "Peter Weir"
+    "director": "Peter Weir",
+    "position": 87
   },
   {
     "id": "the-holdovers",
@@ -991,9 +995,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/w7/tw/8s/e8/IMG_3085-1200-1200-675-675-crop-000000.jpg?v=b40be2ecb7",
     "rating": 4,
     "watchedAt": null,
-    "position": 88,
     "year": 2023,
-    "director": "Alexander Payne"
+    "director": "Alexander Payne",
+    "position": 88
   },
   {
     "id": "call-me-by-your-name",
@@ -1002,9 +1006,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/3j/zm/4w/p5/call-me-by-your-name-1200-1200-675-675-crop-000000.jpg?v=d5bd5cddc0",
     "rating": 4,
     "watchedAt": null,
-    "position": 89,
     "year": 2017,
-    "director": "Luca Guadagnino"
+    "director": "Luca Guadagnino",
+    "position": 89
   },
   {
     "id": "happy-as-lazzaro",
@@ -1013,9 +1017,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/z9/91/r3/2c/happy-as-lazzaro-1200-1200-675-675-crop-000000.jpg?v=c1b0b9d34a",
     "rating": 4,
     "watchedAt": null,
-    "position": 90,
     "year": 2018,
-    "director": "Alice Rohrwacher"
+    "director": "Alice Rohrwacher",
+    "position": 90
   },
   {
     "id": "sicario-2015",
@@ -1024,9 +1028,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/21/i8/nu/tn/sicario-2015-1200-1200-675-675-crop-000000.jpg?v=1e124ce215",
     "rating": 4,
     "watchedAt": null,
-    "position": 91,
     "year": 2015,
-    "director": "Denis Villeneuve"
+    "director": "Denis Villeneuve",
+    "position": 91
   },
   {
     "id": "boiling-point-2021",
@@ -1035,9 +1039,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/de/wl/k8/ng/boiling%20point-1200-1200-675-675-crop-000000.jpg?v=e8a4d727fb",
     "rating": 4,
     "watchedAt": null,
-    "position": 92,
     "year": 2021,
-    "director": "Philip Barantini"
+    "director": "Philip Barantini",
+    "position": 92
   },
   {
     "id": "city-of-god",
@@ -1046,9 +1050,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/pn/lo/pe/jr/city-of-god-1200-1200-675-675-crop-000000.jpg?v=b03d621f8a",
     "rating": 4,
     "watchedAt": null,
-    "position": 93,
     "year": 2002,
-    "director": "Fernando Meirelles"
+    "director": "Fernando Meirelles",
+    "position": 93
   },
   {
     "id": "another-round",
@@ -1057,9 +1061,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/ff/lm/1w/3a/nother%20round-1200-1200-675-675-crop-000000.jpg?v=512c2d750e",
     "rating": 4,
     "watchedAt": null,
-    "position": 94,
     "year": 2020,
-    "director": "Thomas Vinterberg"
+    "director": "Thomas Vinterberg",
+    "position": 94
   },
   {
     "id": "midsommar",
@@ -1068,9 +1072,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/5q/jr/xl/0r/midsommar-1200-1200-675-675-crop-000000.jpg?v=620571be01",
     "rating": 4,
     "watchedAt": null,
-    "position": 95,
     "year": 2019,
-    "director": "Ari Aster"
+    "director": "Ari Aster",
+    "position": 95
   },
   {
     "id": "the-humans",
@@ -1079,9 +1083,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/em/lh/7k/r1/the-humans-2021-1200-1200-675-675-crop-000000.jpg?v=1fe75d4a83",
     "rating": 4,
     "watchedAt": null,
-    "position": 96,
     "year": 2021,
-    "director": "Stephen Karam"
+    "director": "Stephen Karam",
+    "position": 96
   },
   {
     "id": "close-2022",
@@ -1090,9 +1094,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/rp/8k/u1/to/close-1200-1200-675-675-crop-000000.jpg?v=846d9e3349",
     "rating": 4,
     "watchedAt": null,
-    "position": 97,
     "year": 2022,
-    "director": "Lukas Dhont"
+    "director": "Lukas Dhont",
+    "position": 97
   },
   {
     "id": "500-days-of-summer",
@@ -1101,9 +1105,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/38/td/jx/jy/500-days-summer-1200-1200-675-675-crop-000000.jpg?v=e58db3efd4",
     "rating": 4,
     "watchedAt": null,
-    "position": 98,
     "year": 2009,
-    "director": "Marc Webb"
+    "director": "Marc Webb",
+    "position": 98
   },
   {
     "id": "taming-the-garden",
@@ -1112,9 +1116,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/jz/2u/f0/su/taming-the-garden-1200-1200-675-675-crop-000000.jpg?v=9bd6b7f310",
     "rating": 4,
     "watchedAt": null,
-    "position": 99,
     "year": 2021,
-    "director": "Salome Jashi"
+    "director": "Salome Jashi",
+    "position": 99
   },
   {
     "id": "before-midnight",
@@ -1123,9 +1127,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/e4/cj/4p/18/before-midnight-1200-1200-675-675-crop-000000.jpg?v=3cf9097b5b",
     "rating": 4,
     "watchedAt": null,
-    "position": 100,
     "year": 2013,
-    "director": "Richard Linklater"
+    "director": "Richard Linklater",
+    "position": 100
   },
   {
     "id": "the-master-2012",
@@ -1134,9 +1138,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/92/da/pm/v9/master-1200-1200-675-675-crop-000000.jpg?v=88afbd7335",
     "rating": 4,
     "watchedAt": null,
-    "position": 101,
     "year": 2012,
-    "director": "Paul Thomas Anderson"
+    "director": "Paul Thomas Anderson",
+    "position": 101
   },
   {
     "id": "requiem-for-a-dream",
@@ -1145,9 +1149,9 @@
     "img": "https://a.ltrbxd.com/resized/alternative-backdrop/5/1/4/8/3/tmdb/b0EzdzbXZhPmlHkjmQOkjGFCpDl-1200-1200-675-675-crop-000000.jpg?v=074641238e",
     "rating": 4,
     "watchedAt": null,
-    "position": 102,
     "year": 2000,
-    "director": "Darren Aronofsky"
+    "director": "Darren Aronofsky",
+    "position": 102
   },
   {
     "id": "il-divo",
@@ -1156,9 +1160,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/mb/5d/6e/eo/ildivo-1200-1200-675-675-crop-000000.jpg?v=f34f94febe",
     "rating": 4,
     "watchedAt": null,
-    "position": 103,
     "year": 2008,
-    "director": "Paolo Sorrentino"
+    "director": "Paolo Sorrentino",
+    "position": 103
   },
   {
     "id": "trainspotting",
@@ -1167,9 +1171,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/jq/84/k3/al/trainspotting-55-1200-1200-675-675-crop-000000.jpg?v=c019cea1ec",
     "rating": 4,
     "watchedAt": null,
-    "position": 104,
     "year": 1996,
-    "director": "Danny Boyle"
+    "director": "Danny Boyle",
+    "position": 104
   },
   {
     "id": "se7en",
@@ -1178,9 +1182,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/om/48/ya/8v/se7en_uLHHCJ-1200-1200-675-675-crop-000000.jpg?v=04e9ff67b6",
     "rating": 4,
     "watchedAt": null,
-    "position": 105,
     "year": 1995,
-    "director": "David Fincher"
+    "director": "David Fincher",
+    "position": 105
   },
   {
     "id": "the-king-of-staten-island",
@@ -1189,9 +1193,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/4g/1n/b9/fv/king-1200-1200-675-675-crop-000000.jpg?v=21aa282a32",
     "rating": 4,
     "watchedAt": null,
-    "position": 106,
     "year": 2020,
-    "director": "Judd Apatow"
+    "director": "Judd Apatow",
+    "position": 106
   },
   {
     "id": "arrival-2016",
@@ -1200,9 +1204,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/oa/m7/ho/3a/arrival-2016-1200-1200-675-675-crop-000000.jpg?v=a5173b53c7",
     "rating": 4,
     "watchedAt": null,
-    "position": 107,
     "year": 2016,
-    "director": "Denis Villeneuve"
+    "director": "Denis Villeneuve",
+    "position": 107
   },
   {
     "id": "there-will-be-blood",
@@ -1211,20 +1215,21 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/9u/5h/ey/it/there-will-be-blood-1200-1200-675-675-crop-000000.jpg?v=6f56c21c8d",
     "rating": 4,
     "watchedAt": null,
-    "position": 108,
     "year": 2007,
-    "director": "Paul Thomas Anderson"
+    "director": "Paul Thomas Anderson",
+    "position": 108
   },
   {
     "id": "italian-race",
     "name": "Italian Race",
     "url": "https://letterboxd.com/film/italian-race/",
-    "img": "https://a.ltrbxd.com/resized/film-poster/3/1/0/9/4/6/310946-italian-race-0-600-0-900-crop.jpg?v=266424107b",
+    "img": "https://image.tmdb.org/t/p/w1280/diOBjBNzveEkIE2oq1TK5n0uXB5.jpg",
     "rating": 4,
     "watchedAt": null,
-    "position": 109,
     "year": 2016,
-    "director": "Matteo Rovere"
+    "director": "Matteo Rovere",
+    "position": 109,
+    "tmdbId": 375572
   },
   {
     "id": "lost-in-translation",
@@ -1233,9 +1238,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/8e/sp/aj/wo/lost-in-translation-1200-1200-675-675-crop-000000.jpg?v=ca0380733b",
     "rating": 4,
     "watchedAt": null,
-    "position": 110,
     "year": 2003,
-    "director": "Sofia Coppola"
+    "director": "Sofia Coppola",
+    "position": 110
   },
   {
     "id": "ford-v-ferrari",
@@ -1244,9 +1249,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/j6/rv/uv/sq/ford-v-ferrari-1200-1200-675-675-crop-000000.jpg?v=517b3758d4",
     "rating": 4,
     "watchedAt": null,
-    "position": 111,
     "year": 2019,
-    "director": "James Mangold"
+    "director": "James Mangold",
+    "position": 111
   },
   {
     "id": "the-neighbors-window",
@@ -1255,9 +1260,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/4l/ca/0f/59/neighbors%20window-1200-1200-675-675-crop-000000.jpg?v=b048ab1c7a",
     "rating": 4,
     "watchedAt": null,
-    "position": 112,
     "year": 2019,
-    "director": "Marshall Curry"
+    "director": "Marshall Curry",
+    "position": 112
   },
   {
     "id": "fantastic-mr-fox",
@@ -1266,9 +1271,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/be/5b/hi/85/fantastic-mr-fox-1200-1200-675-675-crop-000000.jpg?v=da0201b5cf",
     "rating": 4,
     "watchedAt": null,
-    "position": 113,
     "year": 2009,
-    "director": "Wes Anderson"
+    "director": "Wes Anderson",
+    "position": 113
   },
   {
     "id": "bill-cunningham-new-york",
@@ -1277,9 +1282,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/2y/wr/gk/xh/bill-cunningham-1200-1200-675-675-crop-000000.jpg?v=a40b56f8ca",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 114,
     "year": 2010,
-    "director": "Richard Press"
+    "director": "Richard Press",
+    "position": 114
   },
   {
     "id": "one-battle-after-another",
@@ -1288,9 +1293,9 @@
     "img": "https://a.ltrbxd.com/resized/alternative-backdrop/9/5/1/2/7/7/tmdb/ev06XwWLSoTG2DkLlsllAhlWGsk-1200-1200-675-675-crop-000000.jpg?v=cf6bcc5601",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 115,
     "year": 2025,
-    "director": "Paul Thomas Anderson"
+    "director": "Paul Thomas Anderson",
+    "position": 115
   },
   {
     "id": "the-great-buddha-2017",
@@ -1299,9 +1304,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/qb/di/3a/87/the-great-buddha-1200-1200-675-675-crop-000000.jpg?v=10e322f45d",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 116,
     "year": 2017,
-    "director": "Huang Hsin-yao"
+    "director": "Huang Hsin-yao",
+    "position": 116
   },
   {
     "id": "a-summers-tale",
@@ -1310,9 +1315,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/i0/df/j3/6o/summers-tale-1200-1200-675-675-crop-000000.jpg?v=eee3619792",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 117,
     "year": 1996,
-    "director": "Éric Rohmer"
+    "director": "Éric Rohmer",
+    "position": 117
   },
   {
     "id": "captain-fantastic",
@@ -1321,9 +1326,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/pb/qt/th/wb/captain-fantastic-1200-1200-675-675-crop-000000.jpg?v=361c8b198d",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 118,
     "year": 2016,
-    "director": "Matt Ross"
+    "director": "Matt Ross",
+    "position": 118
   },
   {
     "id": "a-ghost-story-2017",
@@ -1332,9 +1337,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/5f/ik/y7/hz/a-ghost-story-1200-1200-675-675-crop-000000.jpg?v=f40c8fbd19",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 119,
     "year": 2017,
-    "director": "David Lowery"
+    "director": "David Lowery",
+    "position": 119
   },
   {
     "id": "boyhood",
@@ -1343,9 +1348,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/fu/dy/lm/3p/boyhood-1200-1200-675-675-crop-000000.jpg?v=a3f7b01929",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 120,
     "year": 2014,
-    "director": "Richard Linklater"
+    "director": "Richard Linklater",
+    "position": 120
   },
   {
     "id": "the-girl-with-the-dragon-tattoo-2011",
@@ -1354,9 +1359,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/8j/mz/4s/lu/girl-with-the-dragon-tattoo-2011-1200-1200-675-675-crop-000000.jpg?v=57d2bfd897",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 121,
     "year": 2011,
-    "director": "David Fincher"
+    "director": "David Fincher",
+    "position": 121
   },
   {
     "id": "beau-travail",
@@ -1365,9 +1370,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/9b/dw/nk/xa/beau%20travail-1200-1200-675-675-crop-000000.jpg?v=ba75f95f89",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 122,
     "year": 1999,
-    "director": "Claire Denis"
+    "director": "Claire Denis",
+    "position": 122
   },
   {
     "id": "the-straight-story",
@@ -1376,9 +1381,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/p1/pg/g4/sk/the-straight-story-1200-1200-675-675-crop-000000.jpg?v=c1e46e9643",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 123,
     "year": 1999,
-    "director": "David Lynch"
+    "director": "David Lynch",
+    "position": 123
   },
   {
     "id": "bicycle-thieves",
@@ -1387,9 +1392,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/xh/na/ai/0x/bicycle-thieves-1200-1200-675-675-crop-000000.jpg?v=7cd2a52c59",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 124,
     "year": 1948,
-    "director": "Vittorio De Sica"
+    "director": "Vittorio De Sica",
+    "position": 124
   },
   {
     "id": "whiplash-2014",
@@ -1398,9 +1403,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/sk/f3/f1/b2/whiplash-1200-1200-675-675-crop-000000.jpg?v=771f1a019d",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 125,
     "year": 2014,
-    "director": "Damien Chazelle"
+    "director": "Damien Chazelle",
+    "position": 125
   },
   {
     "id": "no-country-for-old-men",
@@ -1409,9 +1414,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/er/gs/bn/id/no-country-for-old-men-1200-1200-675-675-crop-000000.jpg?v=2956159386",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 126,
     "year": 2007,
-    "director": "Joel Coen, Ethan Coen"
+    "director": "Joel Coen, Ethan Coen",
+    "position": 126
   },
   {
     "id": "children-of-men",
@@ -1420,9 +1425,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/6o/y1/nl/db/children-of-men-1200-1200-675-675-crop-000000.jpg?v=94f1a8ebf1",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 127,
     "year": 2006,
-    "director": "Alfonso Cuarón"
+    "director": "Alfonso Cuarón",
+    "position": 127
   },
   {
     "id": "the-assassination-of-jesse-james-by-the-coward-robert-ford",
@@ -1431,9 +1436,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/31/7h/dh/cv/the-assassination-of-jesse-james-by-the-coward-robert-ford-1200-1200-675-675-crop-000000.jpg?v=88e2852a0b",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 128,
     "year": 2007,
-    "director": "Andrew Dominik"
+    "director": "Andrew Dominik",
+    "position": 128
   },
   {
     "id": "the-wolf-of-wall-street",
@@ -1442,9 +1447,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/cq/zm/xo/3z/wolf-of-wall-street-1200-1200-675-675-crop-000000.jpg?v=bfcb5bcfa9",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 129,
     "year": 2013,
-    "director": "Martin Scorsese"
+    "director": "Martin Scorsese",
+    "position": 129
   },
   {
     "id": "memories-of-murder",
@@ -1453,9 +1458,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/5c/ur/ei/1h/memories-of-murder-1200-1200-675-675-crop-000000.jpg?v=fcadf1c12c",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 130,
     "year": 2003,
-    "director": "Bong Joon Ho"
+    "director": "Bong Joon Ho",
+    "position": 130
   },
   {
     "id": "chungking-express",
@@ -1464,9 +1469,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/l9/bc/l9/1k/chungking-1200-1200-675-675-crop-000000.jpg?v=0c36cc7f71",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 131,
     "year": 1994,
-    "director": "Wong Kar-Wai"
+    "director": "Wong Kar-Wai",
+    "position": 131
   },
   {
     "id": "castaway-on-the-moon",
@@ -1475,9 +1480,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/8h/xt/kl/fy/castaway-on-the-moon-1200-1200-675-675-crop-000000.jpg?v=ed54c897ae",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 132,
     "year": 2009,
-    "director": "Lee Hae-jun"
+    "director": "Lee Hae-jun",
+    "position": 132
   },
   {
     "id": "incendies",
@@ -1486,9 +1491,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/xc/7a/mq/v8/incendies-1200-1200-675-675-crop-000000.jpg?v=916978c613",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 133,
     "year": 2010,
-    "director": "Denis Villeneuve"
+    "director": "Denis Villeneuve",
+    "position": 133
   },
   {
     "id": "certified-copy",
@@ -1497,9 +1502,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/ih/50/al/rx/certified%20copy-1200-1200-675-675-crop-000000.jpg?v=216bce96ba",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 134,
     "year": 2010,
-    "director": "Abbas Kiarostami"
+    "director": "Abbas Kiarostami",
+    "position": 134
   },
   {
     "id": "playtime",
@@ -1508,9 +1513,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/2p/fj/24/jk/playtime-1200-1200-675-675-crop-000000.jpg?v=89b2bfe157",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 135,
     "year": 1967,
-    "director": "Jacques Tati"
+    "director": "Jacques Tati",
+    "position": 135
   },
   {
     "id": "the-good-the-bad-and-the-ugly",
@@ -1519,9 +1524,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/07/zz/2k/vy/the-good-the-bad-and-the-ugly-1200-1200-675-675-crop-000000.jpg?v=6fdc9111b0",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 136,
     "year": 1966,
-    "director": "Sergio Leone"
+    "director": "Sergio Leone",
+    "position": 136
   },
   {
     "id": "before-sunrise",
@@ -1530,9 +1535,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/jr/x9/lb/om/before-sunrise-1200-1200-675-675-crop-000000.jpg?v=7d4eb3b9e1",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 137,
     "year": 1995,
-    "director": "Richard Linklater"
+    "director": "Richard Linklater",
+    "position": 137
   },
   {
     "id": "parasite-2019",
@@ -1541,9 +1546,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/oi/ha/78/z8/parasite-1200-1200-675-675-crop-000000.jpg?v=03b9da4410",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 138,
     "year": 2019,
-    "director": "Bong Joon Ho"
+    "director": "Bong Joon Ho",
+    "position": 138
   },
   {
     "id": "prisoners",
@@ -1552,9 +1557,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/j1/lk/so/8x/xJXjSQbQxyYkX2YA1wlllYYpoaP-1200-1200-675-675-crop-000000.jpg?v=4940a86b89",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 139,
     "year": 2013,
-    "director": "Denis Villeneuve"
+    "director": "Denis Villeneuve",
+    "position": 139
   },
   {
     "id": "school-of-rock",
@@ -1563,9 +1568,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/vf/yb/9d/an/school-of-rock-1200-1200-675-675-crop-000000.jpg?v=eccf413ad4",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 140,
     "year": 2003,
-    "director": "Richard Linklater"
+    "director": "Richard Linklater",
+    "position": 140
   },
   {
     "id": "zodiac",
@@ -1574,9 +1579,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/07/2h/dm/69/zodiac-1200-1200-675-675-crop-000000.jpg?v=e2ccb1a88a",
     "rating": 4.5,
     "watchedAt": null,
-    "position": 141,
     "year": 2007,
-    "director": "David Fincher"
+    "director": "David Fincher",
+    "position": 141
   },
   {
     "id": "taste-of-cherry",
@@ -1585,9 +1590,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/p4/rv/0c/k5/taste-1200-1200-675-675-crop-000000.jpg?v=b0d08e59d8",
     "rating": 5,
     "watchedAt": null,
-    "position": 142,
     "year": 1997,
-    "director": "Abbas Kiarostami"
+    "director": "Abbas Kiarostami",
+    "position": 142
   },
   {
     "id": "ikiru",
@@ -1596,9 +1601,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/vu/yu/kb/yl/ikiru-1200-1200-675-675-crop-000000.jpg?v=a90d9b56b4",
     "rating": 5,
     "watchedAt": null,
-    "position": 143,
     "year": 1952,
-    "director": "Akira Kurosawa"
+    "director": "Akira Kurosawa",
+    "position": 143
   },
   {
     "id": "andrei-rublev",
@@ -1607,9 +1612,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/co/f5/g4/eb/andrei-rublev-1200-1200-675-675-crop-000000.jpg?v=c93f3cc363",
     "rating": 5,
     "watchedAt": null,
-    "position": 144,
     "year": 1966,
-    "director": "Andrei Tarkovsky"
+    "director": "Andrei Tarkovsky",
+    "position": 144
   },
   {
     "id": "adaptation",
@@ -1618,9 +1623,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/gr/sd/je/e4/adaptation-1200-1200-675-675-crop-000000.jpg?v=bf34662d4c",
     "rating": 5,
     "watchedAt": null,
-    "position": 145,
     "year": 2002,
-    "director": "Spike Jonze"
+    "director": "Spike Jonze",
+    "position": 145
   },
   {
     "id": "pulp-fiction",
@@ -1629,9 +1634,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/z6/e0/vw/uy/pulp-fiction-65-1200-1200-675-675-crop-000000.jpg?v=bb1e151d8b",
     "rating": 5,
     "watchedAt": null,
-    "position": 146,
     "year": 1994,
-    "director": "Quentin Tarantino"
+    "director": "Quentin Tarantino",
+    "position": 146
   },
   {
     "id": "apocalypse-now",
@@ -1640,9 +1645,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/d4/5v/ik/es/apocalypse-now-1200-1200-675-675-crop-000000.jpg?v=374c4b8863",
     "rating": 5,
     "watchedAt": null,
-    "position": 147,
     "year": 1979,
-    "director": "Francis Ford Coppola"
+    "director": "Francis Ford Coppola",
+    "position": 147
   },
   {
     "id": "close-up",
@@ -1651,9 +1656,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/q7/9h/3o/qp/close-1200-1200-675-675-crop-000000.jpg?v=88979ea3fe",
     "rating": 5,
     "watchedAt": null,
-    "position": 148,
     "year": 1990,
-    "director": "Abbas Kiarostami"
+    "director": "Abbas Kiarostami",
+    "position": 148
   },
   {
     "id": "once-upon-a-time-in-america",
@@ -1662,9 +1667,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/1f/n2/rx/0s/image%20(5)-1200-1200-675-675-crop-000000.jpg?v=babf4f7ba5",
     "rating": 5,
     "watchedAt": null,
-    "position": 149,
     "year": 1984,
-    "director": "Sergio Leone"
+    "director": "Sergio Leone",
+    "position": 149
   },
   {
     "id": "paris-texas",
@@ -1673,9 +1678,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/4w/w0/y2/8e/paris-texas-1200-1200-675-675-crop-000000.jpg?v=fc51a0a182",
     "rating": 5,
     "watchedAt": null,
-    "position": 150,
     "year": 1984,
-    "director": "Wim Wenders"
+    "director": "Wim Wenders",
+    "position": 150
   },
   {
     "id": "perfect-days-2023",
@@ -1684,9 +1689,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/6t/ak/0b/ch/bKyGc7BA0fe2D3mPedUAbtKjPZO-1200-1200-675-675-crop-000000.jpg?v=316e86c854",
     "rating": 5,
     "watchedAt": null,
-    "position": 151,
     "year": 2023,
-    "director": "Wim Wenders"
+    "director": "Wim Wenders",
+    "position": 151
   },
   {
     "id": "made-in-hong-kong",
@@ -1695,9 +1700,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/5y/hn/1g/jq/madeinhongkong-1200-1200-675-675-crop-000000.jpg?v=99572766a3",
     "rating": 5,
     "watchedAt": null,
-    "position": 152,
     "year": 1997,
-    "director": "Fruit Chan"
+    "director": "Fruit Chan",
+    "position": 152
   },
   {
     "id": "the-godfather",
@@ -1706,9 +1711,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/zp/bn/1x/6r/the-godfather-1200-1200-675-675-crop-000000.jpg?v=397832feef",
     "rating": 5,
     "watchedAt": null,
-    "position": 153,
     "year": 1972,
-    "director": "Francis Ford Coppola"
+    "director": "Francis Ford Coppola",
+    "position": 153
   },
   {
     "id": "spring-summer-fall-winter-and-spring",
@@ -1717,9 +1722,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/sy/wk/nu/ui/spring-summer-fall-winter-and-spring-1200-1200-675-675-crop-000000.jpg?v=a47ba41b72",
     "rating": 5,
     "watchedAt": null,
-    "position": 154,
     "year": 2003,
-    "director": "Kim Ki-duk"
+    "director": "Kim Ki-duk",
+    "position": 154
   },
   {
     "id": "the-tree-of-life-2011",
@@ -1728,9 +1733,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/mu/jr/y5/76/tree-of-life-2011-1200-1200-675-675-crop-000000.jpg?v=6d904ea5c0",
     "rating": 5,
     "watchedAt": null,
-    "position": 155,
     "year": 2011,
-    "director": "Terrence Malick"
+    "director": "Terrence Malick",
+    "position": 155
   },
   {
     "id": "a-hidden-life-2019",
@@ -1739,9 +1744,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/1s/hp/uz/dz/a-hidden-life-1200-1200-675-675-crop-000000.jpg?v=0f1f1b4a6c",
     "rating": 5,
     "watchedAt": null,
-    "position": 156,
     "year": 2019,
-    "director": "Terrence Malick"
+    "director": "Terrence Malick",
+    "position": 156
   },
   {
     "id": "harakiri",
@@ -1750,9 +1755,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/7g/p5/0v/14/harakiri-1200-1200-675-675-crop-000000.jpg?v=9e264a0309",
     "rating": 5,
     "watchedAt": null,
-    "position": 157,
     "year": 1962,
-    "director": "Masaki Kobayashi"
+    "director": "Masaki Kobayashi",
+    "position": 157
   },
   {
     "id": "gone-girl",
@@ -1761,9 +1766,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/6g/ja/bv/xf/gone-girl-1200-1200-675-675-crop-000000.jpg?v=19f256dfa8",
     "rating": 5,
     "watchedAt": null,
-    "position": 158,
     "year": 2014,
-    "director": "David Fincher"
+    "director": "David Fincher",
+    "position": 158
   },
   {
     "id": "interstellar",
@@ -1772,9 +1777,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/r4/0u/oq/0i/interstellar-1200-1200-675-675-crop-000000.jpg?v=fc649141b5",
     "rating": 5,
     "watchedAt": null,
-    "position": 159,
     "year": 2014,
-    "director": "Christopher Nolan"
+    "director": "Christopher Nolan",
+    "position": 159
   },
   {
     "id": "uncut-gems",
@@ -1783,9 +1788,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/jr/zc/xo/iw/uncut-gems-1200-1200-675-675-crop-000000.jpg?v=3ae14b9389",
     "rating": 5,
     "watchedAt": null,
-    "position": 160,
     "year": 2019,
-    "director": "Josh Safdie, Benny Safdie"
+    "director": "Josh Safdie, Benny Safdie",
+    "position": 160
   },
   {
     "id": "the-social-network",
@@ -1794,9 +1799,9 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/dr/ty/49/rl/the-social-network-2010-1200-1200-675-675-crop-000000.jpg?v=cbacd98bfa",
     "rating": 5,
     "watchedAt": null,
-    "position": 161,
     "year": 2010,
-    "director": "David Fincher"
+    "director": "David Fincher",
+    "position": 161
   },
   {
     "id": "the-great-beauty",
@@ -1805,8 +1810,8 @@
     "img": "https://a.ltrbxd.com/resized/sm/upload/41/ot/ql/w8/great%20beauty-1200-1200-675-675-crop-000000.jpg?v=65360f8166",
     "rating": 5,
     "watchedAt": null,
-    "position": 162,
     "year": 2013,
-    "director": "Paolo Sorrentino"
+    "director": "Paolo Sorrentino",
+    "position": 162
   }
 ]
