@@ -3,6 +3,10 @@ export interface IFilm {
   name: string;
   url: string;
   img: string;
-  status: string;
   rating: number;
+  watchedAt?: string | null;
+  year?: number | null;
+  director?: string | null;
+  tmdbId?: number | null;
+  position?: number;
 }

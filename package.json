@@ -8,7 +8,8 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "sync:films": "node scripts/fetch-letterboxd-films.mjs"
   },
   "dependencies": {
     "@gsap/react": "^2.1.1",

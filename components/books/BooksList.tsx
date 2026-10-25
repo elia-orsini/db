@@ -55,8 +55,8 @@ const BooksList: React.FC<{
   }, [yearFromUrl, years, setThisYear]);
 
   return (
-    <div className="h-full flex flex-col justify-start mt-4">
-      <div className="flex mb-6">
+    <div className="h-full mx-auto w-max flex flex-col justify-start mt-4">
+      <div className="flex mb-2 mx-auto">
         <BooksSwitchButton
           setState={setThisYear}
           state={thisYear}
@@ -96,10 +96,9 @@ const BooksList: React.FC<{
         </div>
       )}
 
-      <div className="text-center mx-auto my-auto mb-8 grid md:grid-cols-2 lg:grid-cols-3 gap-2">
-        {currentYearData &&
-          currentYearData.length > 0 &&
-          currentYearData.map((book: IBook) => {
+      {currentYearData && currentYearData.length > 0 && (
+        <div className="p-2 sm:p-4 border border-black bg-gray-100 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 sm:gap-4 lg:gap-8 mb-8">
+          {currentYearData.map((book: IBook) => {
             return (
               <Book
                 key={book.id}
@@ -111,7 +110,8 @@ const BooksList: React.FC<{
               />
             );
           })}
-      </div>
+        </div>
+      )}
     </div>
   );
 };

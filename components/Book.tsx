@@ -8,7 +8,7 @@ const Book: React.FC<{
   return (
     <a href={link ? `books/${id}` : "#"}>
       <div
-        className={`mx-auto border h-full border-black font-semibold w-72 text-left bg-gray-50 ${
+        className={`mx-auto border h-full border-black font-semibold w-72 text-left bg-white ${
           link ? "cursor-pointer" : "cursor-default"
         }`}
       >

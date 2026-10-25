@@ -11,7 +11,7 @@ const IndexPage = () => {
 
   return (
     <div className="h-screen min-h-screen flex-col flex">
-      <Title />
+      <Title linkLogo={false} />
 
       <div className="mx-auto px-2 text-xl w-full sm:w-4/5 md:w-3/5 text-left border-dashed border-b sm:border-r sm:border-l border-black">
         <p>
