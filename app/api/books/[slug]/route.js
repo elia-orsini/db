@@ -1,4 +1,4 @@
-import { getBookById, getBooksByYear } from "../../../utils/getBooks";
+import { getBookById, getBooksByYear } from "../../../../utils/getBooks";
 
 export async function GET(_request, { params }) {
   const slug = params.slug;
