@@ -2,8 +2,8 @@ name: Sync Letterboxd films
 
 on:
   schedule:
-    # Weekly on Monday 06:00 UTC
-    - cron: "0 6 * * 1"
+    # Twice weekly: Monday and Thursday 06:00 UTC
+    - cron: "0 6 * * 1,4"
   workflow_dispatch:
 
 permissions:
